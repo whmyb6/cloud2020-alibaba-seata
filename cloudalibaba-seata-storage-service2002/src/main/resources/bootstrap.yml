@@ -1,0 +1,12 @@
+server:
+  port: 2002
+
+spring:
+  application:
+    name: seata-storage-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.100.200:1111
+      config:
+        server-addr: 192.168.100.200:1111

@@ -1,0 +1,4 @@
+# Project exclude paths
+/cloudalibaba-seata-account-service2003/target/
+/cloudalibaba-seata-order-service2001/target/
+/cloudalibaba-seata-storage-service2002/target/
